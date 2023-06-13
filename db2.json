@@ -1,0 +1,32 @@
+{
+  "prestamos":[
+  {
+    "id": 1,
+    "libro": "Leanne Graham",
+    "cliente": "Bret",
+    "inicio": "2014-06-22",
+    "fin": "2015-05-10"
+  },
+  {
+    "id": 2,
+    "libro": "Leanne Graham",
+    "cliente": "Bret",
+    "inicio": "2014-11-22",
+    "fin": "2015-07-22"
+  },
+  {
+    "id": 3,
+    "libro": "Leanne Graham",
+    "cliente": "Bret",
+    "inicio": "2014-04-22",
+    "fin": "2015-05-22"
+  },
+  {
+    "id": 4,
+    "libro": "Leanne Graham",
+    "cliente": "Bret",
+    "inicio": "2016-08-22",
+    "fin": "2017-05-22"
+  }
+]
+}
